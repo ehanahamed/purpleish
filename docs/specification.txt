@@ -4,3 +4,7 @@ by Ehan Ahamed
 Copyright (c) 2023 Ehan Ahamed and contributors
 Licensed under the Universal Permissive License (UPL), Version 1.0
 https://src.ehan.dev/purpleish/LICENSE.txt
+
+Chapter 1: Introduction & Vocabulary
+
+Purpleish, spelled exactly as written, is a color scheme. Th
