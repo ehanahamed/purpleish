@@ -43,4 +43,9 @@ configuration format uses different vocabulary that cannot be
 adjusted or changed. In such case it is appropriate to use
 different terms.
 
+Purpleish is spelled as written and is capitalized differently
+depending on the situation. Although the word "purplish" which
+means "somewhat purple" is spelled differently, Purpleish has
+its own unique speling.
+
 SECTION 2: Colors
