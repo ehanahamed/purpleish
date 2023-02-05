@@ -48,4 +48,17 @@ depending on the situation. Although the word "purplish" which
 means "somewhat purple" is spelled differently, Purpleish has
 its own unique speling.
 
+In urls, repository names, certain filenames and similar cases,
+Purpleish is fully lowercase.
+
+In webpages, writing, logos, and other forms of "pretty-print"
+text, the first letter of Purpleish is uppercase.
+
+Certain programming languages, configuration formats, and
+writing styles reccomend specific casing styles. Purpleish
+source code should have the name Purpleish written however
+the programming language or styleguide reccomends. However,
+the user-facing "pretty-print" output should adhere to the
+specification, as explained above.
+
 SECTION 2: Colors
