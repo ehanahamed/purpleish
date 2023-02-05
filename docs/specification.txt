@@ -1,85 +1,35 @@
-PURPLEISH SPECIFICATION
+PURPLEISH SPECIFICATION 
 
-Copyright (c) 2023 Ehan Ahamed and contributors
-Licensed under the Universal Permissive License (UPL),
-Version 1.0
-https://src.ehan.dev/purpleish/LICENSE.txt
+Copyright (c) 2023 Ehan Ahamed and contributors 
+Licensed under the Universal Permissive License (UPL), Version 1.0 
+https://src.ehan.dev/purpleish/LICENSE.txt 
 
-SECTION 1: Introduction, Vocabulary, Branding &
-Conventions
+SECTION 1: Introduction, Vocabulary, Branding & Conventions 
 
-Purpleish, spelled exactly as written, is a color scheme.
-The color scheme consists of a specification, a color list,
-and many themes. Different color schemes have different
-vocabularies
-and technical terms, Purpleish's unique vocabulary is
-specified
-in this document. Regardless of what vocabulary is used
-scientifically, all components of Purpleish should follow
-this
-specification when possible.
+Purpleish, spelled exactly as written, is a color scheme. The color scheme consists of a specification, a color list, and many themes. Different color schemes have different vocabularies and technical terms, Purpleish's unique vocabulary is specified in this document. Regardless of what vocabulary is used scientifically, all components of Purpleish should follow this specification when possible. 
 
-The "COLOR SCHEME" refers to the whole software; all of
-Purpleish.
+The "COLOR SCHEME" refers to the whole software; all of Purpleish. 
 
-A "THEME" refers to an individual component of the full
-software
-which integrates the colors of Purpleish into another
-software.
+A "THEME" refers to an individual component of the full software which integrates the colors of Purpleish into another software. 
 
-The "SPECIFICATION" refers to the document in which the
-colors,
-usage, and other components of Purpleish are defined.
+The "SPECIFICATION" refers to the document in which the colors, usage, and other components of Purpleish are defined. 
 
-A "COLOR," spelled exactly as written, has a specific hue,
-saturation, and brightness. Colors do not have multiple
-shades,
-each color has a specific brightness.
+A "COLOR," spelled exactly as written, has a specific hue, saturation, and brightness. Colors do not have multiple shades, each color has a specific brightness. 
 
-A "HUE" is what differentiates a set of colors when all
-said
-colors have the same brightness and saturation.
+A "HUE" is what differentiates a set of colors when all said colors have the same brightness and saturation. 
 
-The "BRIGHTNESS" of a color is how light or dark the color
-is.
+The "BRIGHTNESS" of a color is how light or dark the color is. 
 
-The "SHADE" of a color is the same as its brightness.
-However,
-the brightness is a specific measurement and unit, while a
-shade
-is relative to another color and has no actual
-measurement.
+The "SHADE" of a color is the same as its brightness. However, the brightness is a specific measurement and unit, while a shade is relative to another color and has no actual measurement. 
 
-The "saturation" is how vibrant or colorful a color is.
+The "SATURATION" is how vibrant or colorful a color is. 
 
-There may be instances in which a certain programming
-language or
-configuration format uses different vocabulary that cannot
-be
-adjusted or changed. In such case it is appropriate to use
-different terms.
+There may be instances in which a certain programming language or configuration format uses different vocabulary that cannot be adjusted or changed. In such case it is appropriate to use different terms. Purpleish is spelled as written and is capitalized differently depending on the situation. Although the word "purplish" which means "somewhat purple" is spelled differently, Purpleish has its own unique speling. 
 
-Purpleish is spelled as written and is capitalized
-differently
-depending on the situation. Although the word "purplish"
-which
-means "somewhat purple" is spelled differently, Purpleish
-has
-its own unique speling.
+In urls, repository names, certain filenames and similar cases, Purpleish is fully lowercase. 
 
-In urls, repository names, certain filenames and similar
-cases,
-Purpleish is fully lowercase.
+In webpages, writing, logos, and other forms of "pretty-print" text, the first letter of Purpleish is uppercase. 
 
-In webpages, writing, logos, and other forms of
-"pretty-print"
-text, the first letter of Purpleish is uppercase.
-
-Certain programming languages, configuration formats, and
-writing styles reccomend specific casing styles. Purpleish
-source code should have the name Purpleish written however
-the programming language or styleguide reccomends. However,
-the user-facing "pretty-print" output should adhere to the
-specification, as explained above.
+Certain programming languages, configuration formats, and writing styles reccomend specific casing styles. Purpleish source code should have the name Purpleish written however the programming language or styleguide reccomends. However, the user-facing "pretty-print" output should adhere to the specification, as explained above. 
 
 SECTION 2: Colors
