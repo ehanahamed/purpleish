@@ -1,42 +1,46 @@
-Purpleish Specification
-by Ehan Ahamed
+PURPLEISH SPECIFICATION
 
-  Copyright (c) 2023 Ehan Ahamed and contributors
-  Licensed under the Universal Permissive License (UPL), Version 1.0
-  https://src.ehan.dev/purpleish/LICENSE.txt
+Copyright (c) 2023 Ehan Ahamed and contributors
+Licensed under the Universal Permissive License (UPL), Version 1.0
+https://src.ehan.dev/purpleish/LICENSE.txt
 
-Chapter 1: Introduction, Vocabulary, Branding & Conventions
+SECTION 1: Introduction, Vocabulary, Branding & Conventions
 
-  Purpleish, spelled exactly as written, is a color scheme.
-  The color scheme consists of a specification, a color list,
-  and many themes. Different color schemes have different vocabulary
-  and technical terms, Purpleish's unique vocabullary is specified
-  in this document. Regardless of how such vocabullary is used
-  scientifically, all components of Purpleish should follow this
-  specification when possible.
+Purpleish, spelled exactly as written, is a color scheme.
+The color scheme consists of a specification, a color list,
+and many themes. Different color schemes have different vocabularies
+and technical terms, Purpleish's unique vocabulary is specified
+in this document. Regardless of what vocabulary is used
+scientifically, all components of Purpleish should follow this
+specification when possible.
 
-    The "color scheme" refers to the whole software; all of Purpleish.
+The "COLOR SCHEME" refers to the whole software; all of Purpleish.
 
-    A "theme" refers to an individual component of the full software,
-    Purpleish, that integrates the colors of Purpleish into another
-    software.
+A "THEME" refers to an individual component of the full software
+which integrates the colors of Purpleish into another
+software.
 
-    The "specification" refers to the document in which the colors,
-    usage, and other components of Purpleish are defined.
+The "SPECIFICATION" refers to the document in which the colors,
+usage, and other components of Purpleish are defined.
 
-    A "color", spelled exactly as written, is a specific hue,
-    saturation, and brightness. "Colors" do not have multiple shades,
-    one "color" is a specific shade with a specific brightness.
+A "COLOR," spelled exactly as written, has a specific hue,
+saturation, and brightness. Colors do not have multiple shades,
+each color has a specific brightness.
 
-    A "hue" is what differentiates a set of colors when all said
-    colors have the same brightness and saturation.
+A "HUE" is what differentiates a set of colors when all said
+colors have the same brightness and saturation.
 
-    The "brightness" of a color is how light or dark the color is.
+The "BRIGHTNESS" of a color is how light or dark the color is.
 
-    The "saturation" is how vibrant or colorful a color is.
+The "SHADE" of a color is the same as its brightness. However,
+the brightness is a specific measurement and unit, while a shade
+is relative to another color and has no actual measurement.
 
-  There may be instances in which a certain programming language or
-  configuration format uses different vocabullary that cannot be
-  adjusted or changed.
+The "saturation" is how vibrant or colorful a color is.
 
-Chapter 2: Colors
+There may be instances in which a certain programming language or
+configuration format uses different vocabulary that cannot be
+adjusted or changed. In such case it is appropriate to use
+different terms.
+
+SECTION 2: Colors
