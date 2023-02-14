@@ -4,73 +4,42 @@ Copyright (c) 2023 Ehan Ahamed and contributors
 Licensed under the Universal Permissive License (UPL), Version 1.0
 https://src.ehan.dev/purpleish/LICENSE.txt
 
-SECTION 1: Introduction, Vocabulary, Branding & Conventions
+SECTION 1: Colors
 
-Purpleish, spelled exactly as written, is a color scheme. The color scheme
-consists of a specification, a color list, and many themes. Different color
-schemes have different vocabularies and technical terms, Purpleish's unique
-vocabulary is specified in this document. Regardless of what vocabulary is used
-scientifically, all components of Purpleish should follow this specification
-when possible.
+HSB/HSV Hues: 0°, 20°, 60°, 160°, 170°, 200°, 240°, 270°, and 320°
 
-The "COLOR SCHEME" refers to the whole software; all of Purpleish.
+HSB/HSV Saturations: 20%, 40%, and 60%.
 
-A "THEME" refers to an individual component of the full software which
-integrates the colors of Purpleish into another software.
+HSB/HSV Brightnesses: 15%, 20%, 25%, 30%, 40%, 50%, 60%, 70%, 80%, and 100%
 
-The "SPECIFICATION" refers to the document in which the colors, usage, and
-other components of Purpleish are defined.
+There are 270 possible combinations of Purpleish's hues, saturations, and brightnesses and therefore there are 270 colors in Purpleish.
 
-A "COLOR," spelled exactly as written, has a specific hue, saturation, and
-brightness. Colors do not have multiple shades, each color has a specific
-brightness.
+HUE   NAME
+0°    redish
+20°   orangeish
+60°   yellowish
+160°  greem
+170°  tealish
+200°  cyam
+240°  blueish
+270°  purpleish
+320°  pimk
 
-A "HUE" is what differentiates a set of colors when all said colors have the
-same brightness and saturation.
+SATURATION  NAME
+20%         gray
+40%         faded
+60%         glowing
 
-The "BRIGHTNESS" of a color is how light or dark the color is.
+BRIGHTNESS  NAME
+15%         0
+20%         1
+25%         2
+30%         3
+40%         4
+50%         5
+60%         6
+70%         7
+80%         8
+100%        9
 
-The "SHADE" of a color is the same as its brightness. However, the brightness
-is a specific measurement and unit, while a shade is relative to another color
-and has no actual measurement.
-
-The "SATURATION" is how vibrant or colorful a color is.
-
-The "COLOR LIST" is a brief list of all the colors in this color scheme.
-
-There may be instances in which a certain programming language or configuration
-format uses different vocabulary that cannot be adjusted or changed. In such
-cases, it is appropriate to use different terms. Purpleish is spelled as written
-and is capitalized differently depending on the situation. Although the word
-"purplish" which means "somewhat purple" is spelled differently, Purpleish has
-its own unique spelling.
-
-In urls, repository names, certain filenames, and similar cases, Purpleish is
-fully lowercase.
-
-In webpages, writing, logos, and other forms of "pretty-print" text, the first
-letter of Purpleish is uppercase.
-
-Certain programming languages, configuration formats, and writing styles
-recommend specific casing styles. Purpleish source code should have the name
-Purpleish written however the programming language or styleguide recommends.
-However, the user-facing "pretty-print" output should adhere to the
-specification, as explained above.
-
-SECTION 2: Colors
-
-Purpleish has a unique way of organizing its colors. There are hundreds of colors in Purpleish, but only a few colors have specific uses. The other colors exist for use cases that this specification has not thought of. This unique system of organizing colors helps keep consistency across different themes while making sure every possible use case has a color.
-
-Purpleish uses HSB as its main system of organizing colors. HSB is the same as HSV, however, both are different from HSL.
-
-Purpleish has 9 hues: 0°, 30°, 60°, 160°, 170°, 200°, 240°, 270°, and 320°.
-
-Purpleish has 3 saturations: 20%, 40%, and 60%.
-
-Purpleish has 10 brightnesses and shades: 15%, 20%, 25%, 30%, 40%, 50%, 60%, 70%, 80%, and 100%.
-
-In total there are 270 possible colors.
-
-All 270 colors are listed below in various formats.
-
-NAME HSB/HSV HEX RGB HSL
+Each color name has 3 parts, so there are 270 possible names. Every color in Purpleish has a corresponding name.
