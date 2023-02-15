@@ -66,8 +66,8 @@ BRIGHTNESS (in HSB/HSV)  NAME
 
 Each full name of a color has 3 parts, so there are 270 possible names. Every color in Purpleish has a corresponding name.
 
-NAME              HSB/HSV        HEX      CMYK        RGB          HSL            LAB
-redBright9        0°,60%,100%    #FF6666  0,60,60,0   255,102,102  0°,100%,70%    63.58,31
-redBright8        0°,60%,80%     #CC5252  0,60,60,20  204,82,82    0°,54%,56%     51,48,25
-purpleishBright9  270°,60%,100%  #B366FF  30,60,0,0   179,102,255  270°,100%,70%  58,59,-65
+NAME              HSB/HSV        HEX      CMYK        RGB
+redBright9        0°,60%,100%    #FF6666  0,60,60,0   255,102,102
+redBright8        0°,60%,80%     #CC5252  0,60,60,20  204,82,82
+purpleishBright9  270°,60%,100%  #B366FF  30,60,0,0   179,102,255
 
