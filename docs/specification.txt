@@ -53,7 +53,33 @@ BRIGHTNESS (in HSB/HSV)  NAME
 Every color in Purpleish has a corresponding name that represents its HSB/HSV.
 
 NAME                HSB/HSV        HEX      CMYK        RGB
-purpleishColorful5  280°,80%,100%  #BB33FF  27,80,0,0   187,51,255
-blueishColorful1    220°,60%,20%   #141F33  61,39,0,80  10,24,51
-blueishFaded5       220°,20%,100%  #CCDDFF  20,13,0,0   204,221,255
-no
+purpleishColorful5  280°,80%,100%  #BB33FF  27,80,0,0    187,51,255
+blueishColorful1    220°,60%,20%   #141F33  61,39,0,80   10,24,51
+blueishFaded5       220°,20%,100%  #CCDDFF  20,13,0,0    204,221,255
+redishFaded1        0°,20%,20%     #4C3333  0,60,60,80   76,51,51
+redishFaded2        0°,40%,40%     #996666  0,40,40,60   153,102,102
+redishFaded3        0°,60%,60%     #E6B8B8  0,20,20,10   230,184,184
+redishFaded4        0°,80%,80%     #FFD6D6  0,5,5,0      255,214,214
+redishFaded5        0°,100%,100%   #FFCCCC  0,10,10,0    255,204,204
+redishColorful1     0°,60%,20%     #994C33  0,60,80,60   153,76,51
+redishColorful2     0°,60%,40%     #CC9966  0,40,60,40   204,153,102
+redishColorful3     0°,60%,60%     #FFD6B8  0,20,40,0    255,214,184
+redishColorful4     0°,60%,80%     #FFEDD6  0,10,20,0    255,237,214
+orangeishFaded1     20°,20%,20%    #4C3D33  0,20,60,80   76,61,51
+orangeishFaded2     20°,40%,40%    #997766  0,10,40,60   153,119,102
+orangeishFaded3     20°,60%,60%    #E6C3B8  0,5,20,10    230,195,184
+orangeishFaded4     20°,80%,80%    #FFEDD6  0,2,10,0     255,237,214
+orangeishFaded5     20°,100%,100%  #FFD6CC  0,5,15,0     255,214,204
+orangeishColorful1  20°,60%,20%    #995333  0,60,70,60   153,83,51
+orangeishColorful2  20°,60%,40%    #CC9966  0,40,60,40   204,153,102
+orangeishColorful3  20°,60%,60%    #FFD6B8  0,20,40,0    255,214,184
+orangeishColorful4  20°,60%,80%    #FFE9D6  0,10,20,0    255,233,214
+yellowishFaded1     40°,20%,20%    #4C4933  20,30,60,80  76,73,51
+yellowishFaded2     40°,40%,40%    #999966  10,20,40,60  153,153,102
+yellowishFaded3     40°,60%,60%    #E6E0B8  5,10,20,10   230,224,184
+yellowishFaded4     40°,80%,80%    #FFFCD6  2,5,10,0     255,252,214
+yellowishFaded5     40°,100%,100%  #FFFCCC  5,10,15,0    255,252,204
+yellowishColorful1  40°,60%,20%    #995F33  60,50,80,60  153,95,51
+yellowishColorful2  40°,60%,40%    #CCCC66  40,30,60,40  204,204,102
+yellowishColorful3  40°,60%,60%    #FFF5B8  20,15,40,0   255,245,184
+yellowishColorful4  40°,60%,80%    #FFFBD6  10,5,20,0    255,251,214
