@@ -59,4 +59,4 @@ redishColorful3     0°,60%,60%      #993D3D  0,60,60,40   153,61,61
 redishColorful2     0°,60%,40%      #662929  0,60,60,60   102,41,41
 redishColorful1     0°,60%,20%      #331414  0,60,60,80   51,20,20
 redishFaded5        0°,40%,100%     #FF9999  0,40,40,0    255,153,153
-redishFaded4        0°,40%,80%      #CC7A7A
+redishFaded4        0°,40%,80%      #CC7A7A  0,40,40,20   
