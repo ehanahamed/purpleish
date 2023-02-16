@@ -57,4 +57,5 @@ redishColorful5     0°,60%,100%     #FF6666  0,60,60,0    255,102,102
 redishColorful4     0°,60%,80%      #CC5353  0,60,60,20   204,82,82
 redishColorful3     0°,60%,60%      #993D3D  0,60,60,40   153,61,61
 redishColorful2     0°,60%,40%      #662929  0,60,60,60   102,41,41
-redishColorful1    0
+redishColorful1     0°,60%,20%      #331414  0,60,60,80   51,20,20
+redishFaded5
