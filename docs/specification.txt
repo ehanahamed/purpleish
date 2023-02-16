@@ -53,4 +53,6 @@ BRIGHTNESS (in HSB/HSV)  NAME
 Every color in Purpleish has a corresponding name that represents its HSB/HSV.
 
 NAME                HSB/HSV         HEX      CMYK         RGB
-
+redishColorful5     0°,60%,100%     #FF6666  0,60,60,0    255,102,102
+redishColorful4     0°,60%,80%      #CC5353  0,60,60,20   204,82,82
+redishColorful3     
