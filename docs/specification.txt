@@ -18,7 +18,7 @@ HUES (in HSB/HSV)
 
 SATURATIONS (in HSB/HSV)
 20%
-80%
+60%
 
 BRIGHTNESSES (in HSB/HSV)
 20%
@@ -41,7 +41,7 @@ HUE (in HSB/HSV)   NAME
 
 SATURATION (in HSB/HSV)  NAME
 20%                      faded
-80%                      colorful
+60%                      colorful
 
 BRIGHTNESS (in HSB/HSV)  NAME
 20%                      1
@@ -54,6 +54,6 @@ Every color in Purpleish has a corresponding name that represents its HSB/HSV.
 
 NAME                HSB/HSV        HEX      CMYK        RGB
 purpleishColorful5  280°,80%,100%  #BB33FF  27,80,0,0   187,51,255
-blueishColorful1    220°,80%,20%   #0A1833  80,53,0,80  10,24,51
+blueishColorful1    220°,60%,20%   #141F33  61,39,0,80  10,24,51
 blueishFaded5       220°,20%,100%  #CCDDFF  20,13,0,0   204,221,255
-
+no
