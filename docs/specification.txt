@@ -47,14 +47,14 @@ HUE   SATURATION  BRIGHTNESS  NAME
 
 18 total colors
 
-NAME            HSB/HSV       HEX      CMYK  RGB
-redish          0°,60%,100%   #FF6666
-redishFaded     0°,40%,100%   #FF9999
-orangeish       20°,60%,100%  #FF9966
-orangeishFaded  20°,40%,100%  #FFBB99
-yellowish       40°,60%,100%  #FFCC66
-yellowishFaded  40°,40%,100%  #FFDD99
-greem           160°,60%,80%  #52CCA3
+NAME            HSB/HSV       HEX      CMYK        RGB
+redish          0°,60%,100%   #FF6666  0,60,60,0
+redishFaded     0°,40%,100%   #FF9999  0,40,40,0
+orangeish       20°,60%,100%  #FF9966  0,40,60,0
+orangeishFaded  20°,40%,100%  #FFBB99  0,27,40,0
+yellowish       40°,60%,100%  #FFCC66  0,20,60,0
+yellowishFaded  40°,40%,100%  #FFDD99  0,13,40,0
+greem           160°,60%,80%  #52CCA3  60,0,20,20
 greemFaded      160°,40%,80%  #7ACCB1  40,0,13,20
 blueish         240°,60%,80%  #5252CC  60,60,0,20
 blueishFaded4   240°,40%,80%  #7A7ACC  40,40,0,20
