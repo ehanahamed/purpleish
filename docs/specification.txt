@@ -29,11 +29,14 @@ HUE   NAME
 SATURATION  NAME
 20%         gray
 40%         faded
-60%         colorful
+60%         NONE
 
-HUE               BRIGHTNESS  NAME
-0°,20°,40°,160°   80%         
-240°              100%        5
-240°              80%         4
-240°              60%         3
-240°              
+HUE              SATURATION  BRIGHTNESS  NAME
+0°,20°,40°,160°  40%,60%     80%         NONE
+240°             20%         100%        5
+240°             40%         80%         4
+240°             40%         60%         3
+240°             40%         40%         2
+240°             40%         20%         1
+240°             60%         80%         NONE
+280°             40%,60%     80%         NONE
