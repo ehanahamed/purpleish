@@ -40,3 +40,25 @@ HUE              SATURATION  BRIGHTNESS  NAME
 240°             40%         20%         1
 240°             60%         80%         NONE
 280°             40%,60%     80%         NONE
+
+18 total colors
+
+NAME            HSB/HSV      HEX  CMYK  RGB
+redish          0°,60%,80%
+redishFaded     0°,40%,80%
+orangeish       20°,60%,80%  
+orangeishFaded  20°,40%,80%
+yellowish       40°,60%,80%
+yellowishFaded  40°,40%,80%
+greem           160°,60%,80%
+greemFaded      160°,40%,80%
+blueish         240°,60%,80%
+blueishGray5    240°,20%,100%
+blueishFaded4   240°,40%,80%
+blueishFaded3   240°,40%,60%
+blueishFaded2   240°,40%,40%
+blueishFaded1   240°,40%,20%
+purpleish       280°,60%,80%
+purpleishFaded  280°,40%,80%
+pimk            320°,60%,80%
+pimkFaded       320°,40%,80%
