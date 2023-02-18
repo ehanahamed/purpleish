@@ -6,11 +6,34 @@ https://src.ehan.dev/purpleish/LICENSE.txt
 
 SECTION 1: Colors
 
-HUE   SATURATIONS BRIGHTNESSES
-0°    60%         80,100
-20°   40%,60%     80,100
-40°   40%,60%     80,100
-160°  40%,60%     60,80
-200°  40%,60%     60,80
-240°  20%,40%     60,80
-320°  40%,60%     80
+HUE   SATURATION  BRIGHTNESS
+0°    40%,60%     80%
+20°   40%,60%     80%
+40°   40%,60%     80%
+160°  40%,60%     80%
+240°  20%         100%
+240°  40%         20%,40%,60%,80%
+240°  60%         80%
+280°  40%,60%     80%
+320°  40%,60%     80%
+
+HUE   NAME
+0°    redish
+20°   orangeish
+40°   yellowish
+160°  greem
+240°  blueish
+280°  purpleish
+320°  pimk
+
+SATURATION  NAME
+20%         gray
+40%         faded
+60%         colorful
+
+HUE               BRIGHTNESS  NAME
+0°,20°,40°,160°   80%         
+240°              100%        5
+240°              80%         4
+240°              60%         3
+
