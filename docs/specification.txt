@@ -7,11 +7,11 @@ https://src.ehan.dev/purpleish/LICENSE.txt
 SECTION 1: Colors
 
 HUE   SATURATION  BRIGHTNESS
-0°    40%,60%     80%
-20°   40%,60%     80%
-40°   40%,60%     80%
+0°    40%,60%     100%
+20°   40%,60%     100%
+40°   40%,60%     100%
 160°  40%,60%     80%
-240°  20%         100%
+240°  20%         80%
 240°  40%         20%,40%,60%,80%
 240°  60%         80%
 280°  40%,60%     80%
@@ -29,31 +29,35 @@ HUE   NAME
 SATURATION  NAME
 20%         gray
 40%         faded
-60%         NONE
+60%         BLANK
 
-HUE              SATURATION  BRIGHTNESS  NAME
-0°,20°,40°,160°  40%,60%     80%         NONE
-240°             20%         100%        5
-240°             40%         80%         4
-240°             40%         60%         3
-240°             40%         40%         2
-240°             40%         20%         1
-240°             60%         80%         NONE
-280°             40%,60%     80%         NONE
+HUE   SATURATION  BRIGHTNESS  NAME
+0°    40%,60%     100%        BLANK
+20°   40%,60%     100%        BLANK
+40°   40%,60%     100%        BLANK
+160°  40%,60%     80%         BLANK
+240°  20%         80%         BLANK
+240°  40%         20%         1
+240°  40%         40%         2
+240°  40%         60%         3
+240°  40%         80%         4
+240°  60%         80%         BLANK
+280°  40%,60%     80%         BLANK
+320°  40%,60%     80%         BLANK
 
 18 total colors
 
 NAME            HSB/HSV      HEX  CMYK  RGB
-redish          0°,60%,80%
-redishFaded     0°,40%,80%
-orangeish       20°,60%,80%  
-orangeishFaded  20°,40%,80%
-yellowish       40°,60%,80%
-yellowishFaded  40°,40%,80%
+redish          0°,60%,100%
+redishFaded     0°,40%,100%
+orangeish       20°,60%,100%
+orangeishFaded  20°,40%,100%
+yellowish       40°,60%,100%
+yellowishFaded  40°,40%,100%  
 greem           160°,60%,80%
 greemFaded      160°,40%,80%
 blueish         240°,60%,80%
-blueishGray5    240°,20%,100%
+blueishGray     240°,20%,80%
 blueishFaded4   240°,40%,80%
 blueishFaded3   240°,40%,60%
 blueishFaded2   240°,40%,40%
@@ -62,3 +66,4 @@ purpleish       280°,60%,80%
 purpleishFaded  280°,40%,80%
 pimk            320°,60%,80%
 pimkFaded       320°,40%,80%
+
