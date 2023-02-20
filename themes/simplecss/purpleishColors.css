@@ -1,17 +1,17 @@
 :root {
    color-scheme: dark !important;
-   --bg: #1f2533 !important;
-   --accent-bg: #3d4b66 !important;
-   --text: #ccddff !important;
-   --text-light: #ccddff !important;
-   --border: #3d4b66 !important;
-   --accent: #9999ff !important;
-   --code: #99ffdd !important;
-   --preformatted: #ccddff !important;
-   --marked: #99ffdd !important;
-   --disabled: #3d4b66 !important;
+   --bg: #1E1E32 !important;
+   --accent-bg: #3D3D66 !important;
+   --text: #A3A3CC !important;
+   --text-light: #A3A3CC !important;
+   --border: #3D3D66 !important;
+   --accent: #A352CC !important;
+   --code: #A352CC !important;
+   --preformatted: #A3A3CC !important;
+   --marked: #A352CC !important;
+   --disabled: #7A7ACC !important;
    --hover-brightness: none !important;
-   --accent-hover: #7a7acc !important;
+   --accent-hover: #B17ACC !important;
 }
 img,
 video {
