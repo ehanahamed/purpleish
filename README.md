@@ -8,8 +8,6 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 
 ## Colors
 
-Purpleish has 18 total colors,
-
 |  NAME            |  Image                                                                |  HSB/HSV       |  HEX      |  CMYK        |  RGB          |
 |------------------|-----------------------------------------------------------------------|----------------|-----------|--------------|---------------|
 |  redish          |![img](https://raw.ehan.dev/purpleish/assets/colors/redish.png)        |  0°,60%,100%   |  #FF6666  |  0,60,60,0   |  255,102,102  |
