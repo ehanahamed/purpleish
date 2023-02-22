@@ -5,10 +5,10 @@
    --text: #A3A3CC !important;
    --text-light: #A3A3CC !important;
    --border: #3D3D66 !important;
-   --accent: #A352CC !important;
-   --code: #A352CC !important;
+   --accent: #7A52CC !important;
+   --code: #7A52CC !important;
    --preformatted: #A3A3CC !important;
-   --marked: #A352CC !important;
+   --marked: #7A52CC !important;
    --disabled: #7A7ACC !important;
    --hover-brightness: none !important;
    --accent-hover: #B17ACC !important;
@@ -99,10 +99,10 @@ nav a.current {
       --text: #A3A3CC !important;
       --text-light: #A3A3CC !important;
       --border: #3D3D66 !important;
-      --accent: #A352CC !important;
-      --code: #A352CC !important;
+      --accent: #7A52CC !important;
+      --code: #7A52CC !important;
       --preformatted: #A3A3CC !important;
-      --marked: #A352CC !important;
+      --marked: #7A52CC !important;
       --disabled: #7A7ACC !important;
       --hover-brightness: none !important;
       --accent-hover: #B17ACC !important;
