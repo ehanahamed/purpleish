@@ -11,7 +11,7 @@
    --marked: #7A52CC !important;
    --disabled: #7A7ACC !important;
    --hover-brightness: none !important;
-   --accent-hover: #B17ACC !important;
+   --accent-hover: #967ACC !important;
 }
 img,
 video {
@@ -105,7 +105,7 @@ nav a.current {
       --marked: #7A52CC !important;
       --disabled: #7A7ACC !important;
       --hover-brightness: none !important;
-      --accent-hover: #B17ACC !important;
+      --accent-hover: #967ACC !important;
    }
    img,
    video {
