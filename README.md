@@ -23,7 +23,7 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 |  blueishFaded2   |![img](https://raw.ehan.dev/purpleish/assets/colors/blueishFaded2.png) |  240°,40%,40%  |  #3D3D66  |  40,40,0,60  |  61,61,102    |
 |  blueishFaded1   |![img](https://raw.ehan.dev/purpleish/assets/colors/blueishFaded1.png) |  240°,40%,20%  |  #1E1E32  |  40,40,0,80  |  30,30,50     |
 |  blueishGray     |![img](https://raw.ehan.dev/purpleish/assets/colors/blueishGray.png)   |  240°,20%,80%  |  #A3A3CC  |  20,20,0,20  |  163,163,204  |
-|  purpleish       |![img](https://raw.ehan.dev/purpleish/assets/colors/purpleish.png)     |  280°,60%,80%  |  #A352CC  |  20,60,0,20  |  163,82,204   |
-|  purpleishFaded  |![img](https://raw.ehan.dev/purpleish/assets/colors/purpleishFaded.png)|  280°,40%,80%  |  #B17ACC  |  13,40,0,20  |  177,122,204  |
+|  purpleish       |![img](https://raw.ehan.dev/purpleish/assets/colors/purpleish.png)     |  260°,60%,80%  |  #7A52CC  |  40,60,0,20  |  122,82,204   |
+|  purpleishFaded  |![img](https://raw.ehan.dev/purpleish/assets/colors/purpleishFaded.png)|  260°,40%,80%  |  #967ACC  |  26,40,0,20  |  150,122,204  |
 |  pimk            |![img](https://raw.ehan.dev/purpleish/assets/colors/pimk.png)          |  320°,60%,80%  |  #CC52A3  |  0,60,20,20  |  204,82,163   |
 |  pimkFaded       |![img](https://raw.ehan.dev/purpleish/assets/colors/pimkFaded.png)     |  320°,40%,80%  |  #CC7AB1  |  0,40,13,20  |  204,122,177  |
