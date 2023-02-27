@@ -17,3 +17,11 @@
 .swal-button {
   background-color: #7A52CC;
 }
+
+.swal-button:hover {
+  background-color: #967ACC;
+}
+
+.swal-content__input {
+  background-color: #1E1E32;
+}
