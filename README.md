@@ -27,3 +27,11 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 |  purpleishFaded  |![img](https://raw.ehan.dev/purpleish/assets/colors/purpleishFaded.png)|  260°,40%,80%  |  #967ACC  |  26,40,0,20  |  150,122,204  |
 |  pimk            |![img](https://raw.ehan.dev/purpleish/assets/colors/pimk.png)          |  320°,60%,80%  |  #CC52A3  |  0,60,20,20  |  204,82,163   |
 |  pimkFaded       |![img](https://raw.ehan.dev/purpleish/assets/colors/pimkFaded.png)     |  320°,40%,80%  |  #CC7AB1  |  0,40,13,20  |  204,122,177  |
+
+## TODO:
+
+- add proper cdn.ehan.dev setup
+- ~~fix simplecss source file~~ (DONE)
+- document simplecss source file
+- document other themes
+- etc
