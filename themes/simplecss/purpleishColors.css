@@ -185,4 +185,7 @@ nav a.current {
       stroke: currentColor;
       fill: currentColor;
    }
+   thead tr th {
+      background-color: var(--border) !important;
+   }
 }
