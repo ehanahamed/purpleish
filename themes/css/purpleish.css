@@ -1,0 +1,27 @@
+/*!
+Purpleish (https://purpleish.ehan.dev/)
+Copyright (c) 2022 Ehan Ahamed and contributors
+Licensed under the UPL-1.0 License
+See license file: https://src.ehan.dev/purpleish/LICENSE.txt
+*/
+
+:root {
+    --redish: #FF6666;
+    --redishFaded: #FF9999;
+    --orangeish: #FF9966;
+    --orangeishFaded: #FFBB99;
+    --yellowish: #FFCC66;
+    --yellowishFaded: #FFDD99;
+    --greem: #52CCA3;
+    --greemFaded: #7ACCB1;
+    --blueish: #5252CC;
+    --blueishFaded4: #7A7ACC;
+    --blueishFaded3: #5C5C99;
+    --blueishFaded2: #3D3D66;
+    --blueishFaded1: #1E1E32;
+    --blueishGray: #A3A3CC;
+    --purpleish: #7A52CC;
+    --purpleishFaded: #967ACC;
+    --pimk: #CC52A3;
+    --pimkFaded: #CC7AB1;
+}
