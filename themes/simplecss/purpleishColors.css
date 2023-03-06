@@ -91,6 +91,12 @@ nav a.current {
    stroke: currentColor;
    fill: currentColor;
 }
+thead tr th {
+      background-color: var(--border) !important;
+}
+input::placeholder {
+   color: var(--border);
+}
 @media (prefers-color-scheme: dark) {
    :root {
       color-scheme: dark !important;
