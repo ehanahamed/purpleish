@@ -13,10 +13,12 @@
    --hover-brightness: none !important;
    --accent-hover: #967ACC !important;
 }
+
 img,
 video {
    opacity: 0.8 !important;
 }
+
 button:focus,
 button:enabled:hover,
 [role="button"]:focus,
@@ -32,26 +34,32 @@ label[type="button"]:hover {
    filter: var(--hover-brightness) !important;
    background-color: var(--accent-hover) !important;
 }
-header > nav a:hover {
+
+header>nav a:hover {
    filter: var(--hover-brightness) !important;
    color: var(--accent-hover) !important;
    border-color: var(--accent-hover) !important;
 }
+
 .post-link {
    font-size: 1.6rem;
    font-weight: bold;
 }
+
 .meta {
    color: var(--text-light);
    font-size: 1rem;
 }
+
 .blog-item {
    margin-bottom: 4rem;
 }
+
 nav a.current {
    color: var(--accent) !important;
    border-color: var(--accent) !important;
 }
+
 .notice {
    background: var(--accent-bg);
    border: 2px solid var(--border);
@@ -59,12 +67,15 @@ nav a.current {
    padding: 1.5rem;
    margin: 2rem 0;
 }
+
 .medium {
    font-size: 1.4rem;
 }
+
 .small {
    font-size: 1rem;
 }
+
 .button {
    border: none;
    border-radius: 5px;
@@ -74,12 +85,14 @@ nav a.current {
    padding: 0.7rem 0.9rem;
    margin: 0.5rem 0;
 }
+
 .button:hover,
 .button:focus {
    filter: var(--hover-brightness) !important;
    background-color: var(--accent-hover) !important;
    cursor: pointer;
 }
+
 .icon {
    vertical-align: sub;
    padding-right: 0.25rem;
@@ -91,12 +104,15 @@ nav a.current {
    stroke: currentColor;
    fill: currentColor;
 }
+
 thead tr th {
-      background-color: var(--border) !important;
+   background-color: var(--border) !important;
 }
+
 input::placeholder {
    color: var(--border);
 }
+
 @media (prefers-color-scheme: dark) {
    :root {
       color-scheme: dark !important;
@@ -113,10 +129,12 @@ input::placeholder {
       --hover-brightness: none !important;
       --accent-hover: #967ACC !important;
    }
+
    img,
    video {
       opacity: 0.8 !important;
    }
+
    button:focus,
    button:enabled:hover,
    [role="button"]:focus,
@@ -132,26 +150,32 @@ input::placeholder {
       filter: var(--hover-brightness) !important;
       background-color: var(--accent-hover) !important;
    }
-   header > nav a:hover {
+
+   header>nav a:hover {
       filter: var(--hover-brightness) !important;
       color: var(--accent-hover) !important;
       border-color: var(--accent-hover) !important;
    }
+
    .post-link {
       font-size: 1.6rem;
       font-weight: bold;
    }
+
    .meta {
       color: var(--text-light);
       font-size: 1rem;
    }
+
    .blog-item {
       margin-bottom: 4rem;
    }
+
    nav a.current {
       color: var(--accent) !important;
       border-color: var(--accent) !important;
    }
+
    .notice {
       background: var(--accent-bg);
       border: 2px solid var(--border);
@@ -159,12 +183,15 @@ input::placeholder {
       padding: 1.5rem;
       margin: 2rem 0;
    }
+
    .medium {
       font-size: 1.4rem;
    }
+
    .small {
       font-size: 1rem;
    }
+
    .button {
       border: none;
       border-radius: 5px;
@@ -174,12 +201,14 @@ input::placeholder {
       padding: 0.7rem 0.9rem;
       margin: 0.5rem 0;
    }
+
    .button:hover,
    .button:focus {
       filter: var(--hover-brightness) !important;
       background-color: var(--accent-hover) !important;
       cursor: pointer;
    }
+
    .icon {
       vertical-align: sub;
       padding-right: 0.25rem;
@@ -191,7 +220,12 @@ input::placeholder {
       stroke: currentColor;
       fill: currentColor;
    }
+
    thead tr th {
       background-color: var(--border) !important;
+   }
+
+   input::placeholder {
+      color: var(--border);
    }
 }
