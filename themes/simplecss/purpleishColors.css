@@ -1,7 +1,7 @@
 :root {
    color-scheme: dark !important;
    --bg: #1E1E32 !important;
-   --accent-bg: #3D3D66 !important;
+   --accent-bg: #1E1E32 !important;
    --text: #A3A3CC !important;
    --text-light: #A3A3CC !important;
    --border: #3D3D66 !important;
@@ -95,7 +95,7 @@ nav a.current {
    :root {
       color-scheme: dark !important;
       --bg: #1E1E32 !important;
-      --accent-bg: #3D3D66 !important;
+      --accent-bg: #1E1E32 !important;
       --text: #A3A3CC !important;
       --text-light: #A3A3CC !important;
       --border: #3D3D66 !important;
