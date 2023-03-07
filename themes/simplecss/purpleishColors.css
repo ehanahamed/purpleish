@@ -225,7 +225,8 @@ input::placeholder {
       background-color: var(--border) !important;
    }
 
-   input::placeholder {
+   input::placeholder,
+   textarea::placeholder {
       color: var(--border);
    }
 }
