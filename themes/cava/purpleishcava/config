@@ -1,0 +1,12 @@
+[general]
+autosens = 1
+bars = 0
+bar_width = 2
+bar_spacing = 2
+
+[color]
+foreground = '#7A52CC'
+gradient = 2
+gradient_count = 2
+gradient_color_1 = '#7A52CC'
+gradient_color_2 = '#3D3D66'
