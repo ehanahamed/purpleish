@@ -35,3 +35,5 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 - document simplecss source file
 - document other themes
 - etc
+- Update gif in `themes/spicetify/assets` to match proper colors
+- fix spicetify theme & DOCUMENTATION!!!
