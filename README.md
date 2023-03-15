@@ -1,4 +1,3 @@
-![img](https://raw.ehan.dev/purpleish/assets/repository-banner.png)
 # Purpleish
 
 ## Work in Progress
