@@ -28,6 +28,18 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 |  pimk            |![img](https://raw.ehan.dev/purpleish/assets/colors/pimk.png)          |  320°,60%,80%  |  #CC52A3  |  0,60,20,20  |  204,82,163   |
 |  pimkFaded       |![img](https://raw.ehan.dev/purpleish/assets/colors/pimkFaded.png)     |  320°,40%,80%  |  #CC7AB1  |  0,40,13,20  |  204,122,177  |
 
+## Repo details
+
+Current repo folder structure:
+
+- `assets/` (images, logos, etc)
+- `docs/` (spec, docs, etc)
+- `site/` ()
+- `themes/`
+    - `themes/THEMENAME`
+        - `themes/THEMENAME/purpleishTHEMENAME`
+    
+
 ## TODO:
 
 - add proper cdn.ehan.dev setup
