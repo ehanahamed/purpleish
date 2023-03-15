@@ -34,10 +34,10 @@ Current repo folder structure:
 
 - `assets/` (images, logos, etc)
 - `docs/` (spec, docs, etc)
-- `site/` ()
+- `site/` (website src (purpleish.ehan.dev))
 - `themes/`
-    - `themes/THEMENAME`
-        - `themes/THEMENAME/purpleishTHEMENAME`
+    - `themes/THEMENAME` (theme src)
+        - `themes/THEMENAME/purpleishTHEMENAME` (theme dist)
     
 
 ## TODO:
