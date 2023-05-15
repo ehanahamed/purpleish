@@ -1,9 +1,5 @@
 # Purpleish
 
-## Work in Progress
-
-This project is incomplete and is maintained by me, a literal 14 year old, so please don't expect much from this.
-
 ## Colors
 
 |  NAME            |  Image                                                                |  HSB/HSV       |  HEX      |  CMYK        |  RGB          |
@@ -27,24 +23,9 @@ This project is incomplete and is maintained by me, a literal 14 year old, so pl
 |  pimk            |![img](https://raw.ehan.dev/purpleish/assets/colors/pimk.png)          |  320°,60%,80%  |  #CC52A3  |  0,60,20,20  |  204,82,163   |
 |  pimkFaded       |![img](https://raw.ehan.dev/purpleish/assets/colors/pimkFaded.png)     |  320°,40%,80%  |  #CC7AB1  |  0,40,13,20  |  204,122,177  |
 
-## Repo details
-
-Current repo folder structure:
-
-- `assets/` (images, logos, etc)
-- `docs/` (spec, docs, etc)
-- `site/` (website src (purpleish.ehan.dev))
-- `themes/`
-    - `themes/THEMENAME` (theme src)
-        - `themes/THEMENAME/purpleishTHEMENAME` (theme dist)
-    
-
 ## TODO:
 
-- add proper cdn.ehan.dev setup
-- ~~fix simplecss source file~~ (DONE)
-- document simplecss source file
-- document other themes
-- etc
-- Update gif in `themes/spicetify/assets` to match proper colors
-- fix spicetify theme & DOCUMENTATION!!!
+- website
+- spicetify theme
+    - Update gif in `themes/spicetify/assets` to match proper colors
+    - fix spicetify theme & DOCUMENTATION!!!
