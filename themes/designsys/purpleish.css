@@ -6,6 +6,7 @@ See license file: https://src.ehan.dev/purpleish/LICENSE.txt
 */
 
 :root {
+    color-scheme: dark;
     --red: #FF6666;
     --redAlt: #FF9999;
     --orange: #FF9966;
