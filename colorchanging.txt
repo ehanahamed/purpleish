@@ -10,11 +10,11 @@ greem           52cca3  green         66cc66
 greemFaded      7accb1  greenAlt      99ff99
 blueish         5252cc  blue          6666cc
 blueishFaded4   7a7acc  blueAlt       9999ff
-blueishFaded3   5c5c99                
-blueishFaded2   3d3d66  gray/bg2/bg3  333366
-blueishFaded1   1e1e32  black/bg1     000033
-blueishGray     a3a3cc  white/fg      ccccff
 purpleish       7a52cc  purple        9966cc              
 purpleishFaded  967ACC  purpleAlt     cc99ff
 pimk            cc52a3  pink          cc66cc
 pimkFaded       cc7ab1  pinkAlt       ff99ff
+blueishFaded3   5c5c99                
+blueishGray     a3a3cc  white/fg      ccccff
+blueishFaded2   3d3d66  gray/bg2/bg3  333366
+blueishFaded1   1e1e32  black/bg1     000033
