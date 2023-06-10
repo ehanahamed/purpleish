@@ -22,12 +22,12 @@
       "tab_background_text_incognito_inactive": [163, 163, 204],
       "tab_text": [122, 82, 204],
       "toolbar": [30, 30, 50],
-      "toolbar_button_icon": [245, 245, 0],
-      "omnibox_text": [0, 245, 0],
-      "omnibox_background": [245, 0, 0],
+      "toolbar_button_icon": [163, 163, 204],
+      "omnibox_text": [163, 163, 204],
+      "omnibox_background": [30, 30, 50],
       "ntp_background": [30, 30, 50],
-      "ntp_link": [0, 0, 245],
-      "ntp_text": [163, 163, 204],
+      "ntp_link": [163, 163, 204],
+      "ntp_text": [122, 82, 204],
       "button_background": [30, 30, 50]
     }
   }
