@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Purpleish",
+  "description": "A purple color scheme's chrome theme (purpleish.ehan.dev)",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [30, 30, 50],
+      "frame_inactive": [30, 30, 50],
+      "frame_incognito": [30, 30, 50],
+      "frame_incognito_inactive": [30, 30, 50],
+      "bookmark_text": [163, 163, 204],
+      "tab_background_text": [163, 163, 204],
+      "tab_background_text_inactive": [163, 163, 204],
+      "tab_background_text_incognito": [163, 163, 204],
+      "tab_background_text_incognito_inactive": [163, 163, 204],
+      "tab_text": [122, 82, 204],
+      "toolbar": [30, 30, 50],
+      "toolbar_button_icon": [245, 245, 0],
+      "omnibox_text": [0, 245, 0],
+      "omnibox_background": [245, 0, 0],
+      "ntp_background": [30, 30, 50],
+      "ntp_link": [0, 0, 245],
+      "ntp_text": [163, 163, 204],
+      "button_background": [30, 30, 50]
+    }
+  }
+}
