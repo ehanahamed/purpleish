@@ -26,6 +26,8 @@
 |  grayAlt     |![img](./assets/colors/grayAlt.png)   |  `240°,40%,60%`  |  `#5C5C99`  |  `40,40,0,40`  |  `92,92,153`    |
 |  white       |![img](./assets/colors/white.png)     |  `240°,20%,80%`  |  `#A3A3CC`  |  `20,20,0,20`  |  `163,163,204`  |
 
+(colors are there twice on codeberg cause github doesn't render hex codes with the color cause its not as goated as codeberg)
+
 ## TODO:
 
 - website
