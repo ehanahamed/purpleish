@@ -26,11 +26,11 @@
 |  purpleDark  |![img](./assets/colors/purpleDark.png)|  `260°,60%,60%`  |  `#5C3D99`  |  `40,60,0,40`  |  `92,61,153`    |
 |  pink        |![img](./assets/colors/pink.png)      |  `320°,60%,80%`  |  `#CC52A3`  |  `0,60,20,20`  |  `204,82,163`   |
 |  pinkAlt     |![img](./assets/colors/pinkAlt.png)   |  `320°,40%,80%`  |  `#CC7AB1`  |  `0,40,13,20`  |  `204,122,177`  |
-|  black       |![img](./assets/colors/black.png)     |  `240°,40%,20%`  |  `#1E1E32`  |  `40,40,0,80`  |  `30,30,50`     |
-|  gray        |![img](./assets/colors/gray.png)      |  `240°,40%,40%`  |  `#3D3D66`  |  `40,40,0,60`  |  `61,61,102`    |
-|  grayAlt     |![img](./assets/colors/grayAlt.png)   |  `240°,40%,60%`  |  `#5C5C99`  |  `40,40,0,40`  |  `92,92,153`    |
 |  white       |![img](./assets/colors/white.png)     |  `240°,20%,80%`  |  `#A3A3CC`  |  `20,20,0,20`  |  `163,163,204`  |
-
+|  grayAlt     |![img](./assets/colors/grayAlt.png)   |  `240°,40%,60%`  |  `#5C5C99`  |  `40,40,0,40`  |  `92,92,153`    |
+|  gray        |![img](./assets/colors/gray.png)      |  `240°,40%,40%`  |  `#3D3D66`  |  `40,40,0,60`  |  `61,61,102`    |
+|  black       |![img](./assets/colors/black.png)     |  `240°,40%,20%`  |  `#1E1E32`  |  `40,40,0,80`  |  `30,30,50`     |
+|  blackDark   |![img](./assets/colors/blackDark.png) |  `240°,40%,16%`  |  `#181829`  |  `40,40,0,84`  |  `24,24,41`     |
 
 ## TODO:
 
