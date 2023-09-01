@@ -11,114 +11,114 @@
 
 // if for return import
 .syntax--keyword {
-  color: @purple;
+  color: @green;
 
   // global static let class
   &.syntax--storage {
-    color: @purple;
+    color: @pink;
   }
 
   // int char float
   &.syntax--type {
-    color: @purple;
+    color: @blue;
     text-decoration: underline;
   }
 
   // and or new del
   &.syntax--operator {
-    color: @white;
+    color: @green;
   }
 
   // super
   &.syntax--function {
-    color: @red;
   }
+  color: @pink;
 
   // this self
   &.syntax--variable {
-    color: @red;
+    color: @pink;
   }
 
   // = + && | << ?
   &.syntax--symbolic {
-    color: @white;
+    color: @green;
   }
 }
 
 // identifier
 .syntax--entity {
-  color: @white;
+  color: @blue;
 
   // function(parameter)
   &.syntax--parameter {
-    color: @white;
+    color: @pink;
   }
 
   // self cls iota
   &.syntax--support {
-    color: @red;
+    color: @pink;
   }
 
   // function method
   &.syntax--function {
-    color: @blue;
+    color: @cyan;
 
     // len print
     &.syntax--support {
-      color: @cyan;
+      color: @pink;
     }
   }
 
   // add
   &.syntax--operator {
-    color: @blue;
+    color: @green;
 
     // %>% <=>
     &.syntax--symbolic {
-      color: @white;
+      color: @green;
     }
   }
 
   // Class
   &.syntax--type {
-    color: @orangeAlt;
+    color: @blue;
     text-decoration: underline;
 
     // String List
     &.syntax--support {
-      color: @orangeAlt;
+      color: @teal;
     }
 
     // dict map float32
     &.syntax--fundamental {
-      color: @purple;
+      color: @teal;
     }
   }
 
   // .class :pseudo-class
   &.syntax--selector {
-    color: @orangeAlt;
+    color: @pink;
 
     // #id
     &.syntax--id {
-      color: @blue;
+      color: @green;
     }
   }
 
   // div span
   &.syntax--tag {
-    color: @red;
+    color: @blue;
     text-decoration: underline;
   }
 
   // href src alt
   &.syntax--attribute {
-    color: @orange;
+    color: @green;
   }
 
   // height position border
   &.syntax--property {
-    color: @white;
+    color: @blue;
   }
 }
 
@@ -129,30 +129,30 @@
 
 // "string"
 .syntax--string {
-  color: @green;
+  color: @orange;
 
   // :immutable
   &.syntax--immutable {
-    color: @green;
+    color: @orange;
   }
 
   // ${variable} %().2f {0:<30}
   &.syntax--part {
-    color: darken(@green, 15%);
+    color: @orange;
   }
 
   // /^reg[ex]?p/
   &.syntax--regexp {
-    color: @green;
+    color: @teal;
 
     // ^ $ \b ? + i
     &.syntax--language {
-      color: @cyan;
+      color: @green;
     }
 
     // <variable> \1
     &.syntax--variable {
-      color: @cyan;
+      color: @blue;
     }
 
     // r" /
@@ -161,7 +161,7 @@
 
       // ( ) [^ ] (?= ) |
       &.syntax--part {
-        color: @cyan;
+        color: @green;
       }
     }
   }
@@ -173,7 +173,7 @@
 
   // &lt; 'a'
   &.syntax--character {
-    color: @green;
+    color: @yellow;
 
     // \" \' \g \.
     &.syntax--escape {
@@ -182,7 +182,7 @@
 
     // \u2661 \n \t \W .
     &.syntax--code {
-      color: @cyan;
+      color: @teal;
     }
   }
 
@@ -192,7 +192,7 @@
 
     // px % cm hz
     &.syntax--unit {
-      color: @orange;
+      color: @blue;
     }
   }
 
@@ -207,7 +207,7 @@
 
     // ...
     &.syntax--symbolic {
-      color: @white;
+      color: @yellow;
     }
   }
 }
@@ -219,7 +219,7 @@
 
 // __formatted__
 .syntax--markup {
-  color: @red;
+  color: @white;
 
   // # Heading
   &.syntax--heading {
@@ -228,7 +228,7 @@
 
   // - item
   &.syntax--list {
-    color: @red;
+    color: @yellow;
   }
 
   // > quote
@@ -238,30 +238,30 @@
 
   // **bold**
   &.syntax--bold {
-    color: @orange;
+    color: @green;
     font-weight: bold;
   }
 
   // *italic*
   &.syntax--italic {
-    color: @pink;
+    color: @green;
     font-style: italic;
   }
 
   // __underline__
   &.syntax--underline {
-    color: @orange;
+    color: @green;
     text-decoration: underline;
   }
 
   // ~~strike~~
   &.syntax--strike {
-    color: @red;
+    color: @green;
   }
 
   // `raw`
   &.syntax--raw {
-    color: @green;
+    color: @orange;
   }
 
   // url.com (path) [reference]
