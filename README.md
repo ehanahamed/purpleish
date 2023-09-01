@@ -16,7 +16,6 @@
 |  greenDark   |![img](./assets/colors/greenDark.png) |  `160°,60%,60%`  |  `#3D997A`  |  `60,0,20,40`  |  `61,153,122`   |
 |  teal        |![img](./assets/colors/teal.png)      |  `180°,60%,80%`  |  `#52CCCC`  |  `60,0,0,20`   |  `82,204,204`   |
 |  tealAlt     |![img](./assets/colors/tealAlt.png)   |  `180°,40%,80%`  |  `#7ACCCC`  |  `40,0,0,20`   |  `122,204,204`  |
-|  tealDark    |![img](./assets/colors/tealDark.png)  |  `180°,60%,60%`  |  `#3D9999`  |  `06,0,0,40`   |  `61,153,153`   |
 |  cyan        |![img](./assets/colors/cyan.png)      |  `200°,60%,80%`  |  `#52A3CC`  |  `60,20,0,20`  |  `82,163,204`   |
 |  cyanAlt     |![img](./assets/colors/cyanAlt.png)   |  `200°,40%,80%`  |  `#7AB1CC`  |  `40,13,0,20`  |  `122,177,204`  |
 |  blue        |![img](./assets/colors/blue.png)      |  `220°,60%,80%`  |  `#527ACC`  |  `60,40,0,20`  |  `82,122,204`   |
