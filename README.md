@@ -28,6 +28,7 @@
 |  white       |![img](./assets/colors/white.png)     |  `240°,20%,80%`  |  `#A3A3CC`  |  `20,20,0,20`  |  `163,163,204`  |
 |  grayAlt     |![img](./assets/colors/grayAlt.png)   |  `240°,40%,60%`  |  `#5C5C99`  |  `40,40,0,40`  |  `92,92,153`    |
 |  gray        |![img](./assets/colors/gray.png)      |  `240°,40%,40%`  |  `#3D3D66`  |  `40,40,0,60`  |  `61,61,102`    |
+|  blackAlt   |![img](./assets/colors/blackAlt.png)   |  `240°,40%,26%`  |  `#282842`  |  `40,40,0,74`  |  `40,40,66`     |
 |  black       |![img](./assets/colors/black.png)     |  `240°,40%,20%`  |  `#1E1E32`  |  `40,40,0,80`  |  `30,30,50`     |
 |  blackDark   |![img](./assets/colors/blackDark.png) |  `240°,40%,16%`  |  `#181829`  |  `40,40,0,84`  |  `24,24,41`     |
 
