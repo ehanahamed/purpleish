@@ -53,67 +53,67 @@ Colors specific to "light-mode" 🤮
 
 ### Syntax
 
-keywords (if, return, import) - green
-storage - pink
-types (int, char, float) - blue
-operators (and, or, new, del) - green
-key functions - pink ?
-key variables (this, self) - pink
-"symbolic" (=, +, &&, |, <<, ?) - green
-entities (identifier) - blue
-parameters - pink
-entity support - pink ?
-function - cyan
-function support - pink
-function operator (add) - green
-function symbolic (%, =>) - green
-entity type - blue
-entity support - teal
-entity fundamental - teal ?
-selector (.class :pseudo-class) - pink
-id (#id) - green
-tag (tag, <tag></tag>) - blue
-attribute (html i think) - green
-property (css i think) - blue
-puncuation - white
-string - orange
-string immutable - orange ?
-string part - orange ?
-string regex - teal
-string language - green ?
-string variable - blue
-string punctuation - green
-string syntax part - green ?
-constant - orange
-character - yellow
-escape - green
-code - teal
-numeric - orange
-unit - blue
-color - teal
-constant language (true, false) - pink
-constant language symbolic - yellow ???
-text - white
-markup - white
-markup heading - blue
-markup list - yellow
-markup quote - orange
-markup bold, italic, underline, strike - green
-markup raw (`raw text`) - orange
-markup url - purple
-link - purple
-git inserted - green
-git deleted - red
-git renamed - blue
-git changed - orange
-comment - grayAlt
-caption - grayAlt ?
-term - white ?
-comment puncuation - white ?
-invalid - red
-illegal - red
-error - red
-depricated - red
+ - keywords (if, return, import) - green
+ - storage - pink
+ - types (int, char, float) - blue
+ - operators (and, or, new, del) - green
+ - key functions - pink ?
+ - key variables (this, self) - pink
+ - "symbolic" (=, +, &&, |, <<, ?) - green
+ - entities (identifier) - blue
+ - parameters - pink
+ - entity support - pink ?
+ - function - cyan
+ - function support - pink
+ - function operator (add) - green
+ - function symbolic (%, =>) - green
+ - entity type - blue
+ - entity support - teal
+ - entity fundamental - teal ?
+ - selector (.class :pseudo-class) - pink
+ - id (#id) - green
+ - tag (tag, <tag></tag>) - blue
+ - attribute (html i think) - green
+ - property (css i think) - blue
+ - puncuation - white
+ - string - orange
+ - string immutable - orange ?
+ - string part - orange ?
+ - string regex - teal
+ - string language - green ?
+ - string variable - blue
+ - string punctuation - green
+ - string syntax part - green ?
+ - constant - orange
+ - character - yellow
+ - escape - green
+ - code - teal
+ - numeric - orange
+ - unit - blue
+ - color - teal
+ - constant language (true, false) - pink
+ - constant language symbolic - yellow ???
+ - text - white
+ - markup - white
+ - markup heading - blue
+ - markup list - yellow
+ - markup quote - orange
+ - markup bold, italic, underline, strike - green
+ - markup raw (`raw text`) - orange
+ - markup url - purple
+ - link - purple
+ - git inserted - green
+ - git deleted - red
+ - git renamed - blue
+ - git changed - orange
+ - comment - grayAlt
+ - caption - grayAlt ?
+ - term - white ?
+ - comment puncuation - white ?
+ - invalid - red
+ - illegal - red
+ - error - red
+ - depricated - red
 
 ## TODO:
 
