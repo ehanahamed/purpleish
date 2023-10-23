@@ -2,6 +2,8 @@
 
 ## Colors
 
+Organized list thingy of colors
+
 |NAME                    |-                                          |HSB/HSV       |HEX      |CMYK        |RGB          |
 |------------------------|-------------------------------------------|--------------|---------|------------|-------------|
 |red                     |![img](./site/assets/colors/red.png)       |`0°,60%,100%` |`#FF6666`|`0,60,60,0` |`255,102,102`|
@@ -32,7 +34,7 @@
 |black (bg1)             |![img](./site/assets/colors/black.png)     |`240°,40%,20%`|`#1E1E32`|`40,40,0,80`|`30,30,50`   |
 |blackDark (bg0)         |![img](./site/assets/colors/blackDark.png) |`240°,40%,16%`|`#181829`|`40,40,0,84`|`24,24,41`   |
 
-Colors specific to "light-mode" 🤮
+Colors specific to "light mode" 🤮 (work in progress)
 
 |NAME                         |SAME AS   |HSB/HSV       |HEX      |CMYK        |RGB          |
 |-----------------------------|----------|--------------|---------|------------|-------------|
