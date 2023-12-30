@@ -1,4 +1,4 @@
-# Colorschemes
+# Purpleish
 
 ## Colors
 
