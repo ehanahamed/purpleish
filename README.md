@@ -53,12 +53,13 @@ Colors specific to "light mode" 🤮 (work in progress)
 |lightPurpleDark (primaryDark)|purpleDark|`260°,60%,60%`|`#5C3D99`|`40,60,0,40`|`92,61,153`  |
 
 Faded variant
-|NAME                         |SAME AS   |HEX      |
-|-----------------------------|----------|---------|
-|fadedBlack (bg1)             |-         |`#1e1e28`|
-|fadedGray (bg2)              |-         |`#3d3d50`|
-|fadedGrayAlt (bg3)           |-         |`#5c5c7a`|
-|fadedWhite (fg)              |-         |`#a3a3b7`|
+|NAME                          |SAME AS   |HEX      |
+|------------------------------|----------|---------|
+|fadedBlackDark (bg0, bgExtra) |-         |`#181820`|
+|fadedBlack (bg1)              |-         |`#1e1e28`|
+|fadedGray (bg2)               |-         |`#3d3d50`|
+|fadedGrayAlt (bg3)            |-         |`#5c5c7a`|
+|fadedWhite (fg)               |-         |`#a3a3b7`|
 
 ### Syntax
 
