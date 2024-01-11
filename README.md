@@ -39,6 +39,7 @@ Colors specific to "light mode" 🤮 (work in progress)
 |NAME                         |SAME AS   |HSB/HSV       |HEX      |CMYK        |RGB          |
 |-----------------------------|----------|--------------|---------|------------|-------------|
 |lightWhite (bg1)             |-         |`240°,1%,95%` |`#EDEDF2`|`2,2,0,5`   |`237,237,242`|
+|lightWhiteAlt (bg1Alt)       |-         |`?`           |`#dfdfed`|`?`         |`?`          |         
 |lightGrayAlt (bg2, bgExtra)  |-         |`240°,10%,90%`|`#CFCFE6`|`10,10,0,10`|`207,207,230`|
 |lightGray (bg3)              |white     |`240°,20%,80%`|`#A3A3CC`|`20,20,0,20`|`163,163,204`|
 |lightBlack (fg)              |-         |`240°,40%,35%`|`#363659`|`39,39,0,65`|`54,54,89`   |
@@ -57,6 +58,7 @@ Faded variant
 |------------------------------|----------|---------|
 |fadedBlackDark (bg0, bgExtra) |-         |`#181820`|
 |fadedBlack (bg1)              |-         |`#1e1e28`|
+|fadedBlackAlt (bg1Alt)        |-         |`#282835`|
 |fadedGray (bg2)               |-         |`#3d3d50`|
 |fadedGrayAlt (bg3)            |-         |`#5c5c7a`|
 |fadedWhite (fg)               |-         |`#a3a3b7`|
