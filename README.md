@@ -2,6 +2,8 @@
 
 ## Purpleish
 
+Purpleish is purple, blue-ish-gray, and looks nice with other colorschemes like Catppuccin. It's not too gray and not too vibrant.
+
 |NAME                    |PREVIEW                               |HEX      |HSB/HSV       |CMYK        |RGB          |
 |------------------------|--------------------------------------|---------|--------------|------------|-------------|
 |red                     |![img](./assets/colors/red.png)       |`#FF6666`|`0°,60%,100%` |`0,60,60,0` |`255,102,102`|
@@ -33,6 +35,8 @@
 |blackDark (bg0)         |![img](./assets/colors/blackDark.png) |`#181829`|`240°,40%,16%`|`40,40,0,84`|`24,24,41`   |
 
 ## Darkish
+
+Darkish is purple, black, & gray. It's "faded" and "dim".
 
 |NAME                    |PREVIEW                                      |HEX      |
 |------------------------|---------------------------------------------|---------|
