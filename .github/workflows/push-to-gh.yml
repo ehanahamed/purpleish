@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone from Codeberg
-        run: git clone https://codeberg.org/ehanahamed/site.git
+        run: git clone https://codeberg.org/ehanahamed/purpleish.git
       - name: Push to GitHub
         run: |
-          cd site
-          git push https://ehanahamed:${{ secrets.GH_TOKEN }}@github.com/ehanahamed/site.git --all
+          cd purpleish
+          git push https://ehanahamed:${{ secrets.GH_TOKEN }}@github.com/ehanahamed/purpleish.git --all
